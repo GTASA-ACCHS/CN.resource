@@ -5,10 +5,10 @@
 
 - *为让此站点更加完善，欢迎各位汉化组或个人提供汉化资源，或提交汉化文本！在下面的[贡献](https://github.com/GTASA-ACCHS/CN.resource)按钮内。*  
 
-- **如果此站点的资源侵犯了权利，请及时联系我们，我们会及时处理。**
+- **如果此站点的资源侵犯了您的权利，请及时联系我们，我们会及时处理。[Outlook邮箱](mailto:lzh1029384756@outlook.com)**
 
 ## 码表
-**此站点的码表用于`III.VC.SAGXTExtracter`的`码表转换`功能，格式如下：**  
+**此站点的码表用于[III.VC.SAGXTExtracter](https://github.com/Lzh102938/III.VC.SAGXTExtracter)的`码表转换`功能，格式如下：**  
 ```  
 测  0001  
 试  0002  
@@ -27,9 +27,9 @@
 - 其余文本为我组自行提取。
 
 ### 格式规范
-为兼容无名汉化组开源的构建工具，我们统一使用以下格式：  
+为兼容[无名汉化组开源的构建工具](https://github.com/R-YaTian/LC.VC.SA.Plugin)，我们统一使用以下格式：  
 
-#### Grand Theft Auto III  
+#### 侠盗猎车手3  
 ```
 TKEY=TDAT  
 1234=4567
@@ -42,7 +42,7 @@ TKEY=TDAT
 [0-9A-Z_]{1,7}=(.*)
 ```
 
-#### Grand Theft Auto Vice City  
+#### 侠盗猎车手：罪恶都市 
 ```
 [MAIN]  
 TKEY=TDAT  
@@ -56,7 +56,7 @@ TKEY=TDAT
 [0-9A-Z_]{1,7}=(.*)  #键值对  
 ```
 
-#### Grand Theft Auto San Andreas  
+#### 侠盗猎车手：圣安地列斯  
 ```
 [MAIN]  
 12345678=测试文本

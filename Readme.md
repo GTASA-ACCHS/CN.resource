@@ -18,7 +18,9 @@
 > **第一列文本**为所需映射字，**第二列文本**为文本内实际字符Hex码，中间使用制表符隔开。  
 
 ### 用法
-在运行`III.VC.SAGXTExtracter`时，点击`码表转换`功能，选中`码表`文件即可。  
+在运行[III.VC.SAGXTExtracter](https://github.com/Lzh102938/III.VC.SAGXTExtracter)时，点击`码表转换`功能，选中`码表`文件即可。  
+
+![码表转换功能](https://github.com/GTASA-ACCHS/CN.resource/blob/main/image/mabiaozhuanhuangongneng.png?raw=true)]
 
 ## 汉化文本
 - 此站点内提供的汉化文本来自**原汉化组**或**我组**自行提取  
